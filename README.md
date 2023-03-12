@@ -12,15 +12,11 @@ I'm so excited to share with you the technologies and platforms I used in this p
 
 -	[https://www.linkedin.com/in/napoleon-de-jesus-anaya-romero-8872ba127/](https://www.linkedin.com/in/napoleon-de-jesus-anaya-romero-8872ba127/)
 
--	[https://ecommerce-react-2023.netlify.app/](https://ecommerce-react-2023.netlify.app/)
-
--	[https://github.com/alucart2005/ecommerce-react](https://github.com/alucart2005/ecommerce-react)
+-	[https://github.com/alucart2005/front-delivery4](https://github.com/alucart2005/front-delivery4)
 
 ## See live example
 
-- [https://ecommerce-react-2023.netlify.app/](https://ecommerce-react-2023.netlify.app/)
- 
-![..](https://raw.githubusercontent.com/alucart2005/ecommerce-react/Ecommerce-React-2023-Ver1/public/Capture%20%40commerce%20React.png)
+![..](https://raw.githubusercontent.com/alucart2005/front-delivery4/main/src/assets/images/image.jpg)
 
 
 ## To install
@@ -29,14 +25,6 @@ To get started with this project, simply run npm i or npm install in the folder 
 
 ## Hiring 
 If you want to hire me you can write to napoleonanaya@gmail.com
-
-
-
-
-
-
-
-
 
 ## Available Scripts
 
